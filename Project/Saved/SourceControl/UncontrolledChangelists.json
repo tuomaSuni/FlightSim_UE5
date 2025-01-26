@@ -66,7 +66,10 @@
 				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Materials/Top.uasset",
 				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Materials/Window_CP.uasset",
 				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Materials/Window_P.uasset",
-				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Materials/Wings.uasset"
+				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Materials/Wings.uasset",
+				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/Blueprints/BP_aeroplane.uasset",
+				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/3D/aeroplane.uasset",
+				"C:/Users/tuomas/Documents/GitHub/FlightSim_UE5/Project/Content/main.uasset"
 			]
 		}
 	]
